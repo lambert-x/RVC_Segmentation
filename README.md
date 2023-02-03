@@ -4,7 +4,7 @@ This repository includes the official pytorch implementation of the **winning so
 
 [Junfei Xiao](https://lambert-x.github.io/), Zhichao Xu, [‪Shiyi Lan‬](https://scholar.google.com/citations?hl=en&user=jIUI6F4AAAAJ), [‪Zhiding Yu‬](https://scholar.google.com/citations?user=1VI_oYUAAAAJ&hl=en), [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=en&oi=ao), [‪Anima Anandkumar](https://scholar.google.com/citations?user=bEcLezcAAAAJ&hl=en)<br/>
 Johns Hopkins University, NVIDIA, Fudan University <br/>
-[Tech. Report]([[2210.12852] ](https://arxiv.org/abs/2210.12852)) 
+[Tech. Report](https://arxiv.org/abs/2210.12852) 
 
 ```
 @article{xiao2022rvcseg,
