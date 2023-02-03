@@ -2,8 +2,9 @@
 
 This repository includes the official pytorch implementation of the **winning solution** in [**Robust Vision Challenge 2022**](http://robustvision.net/leaderboard.php?benchmark=semantic) (in conjunction with **ECCV 2022**) - Semantic Segmentation Track.  Please refer to the report for some details.
 
-![](images/rvc2022_certificate.png)
-
+<p align="center">
+<img src="images/rvc2022_certificate.png"  width="60%">
+</p>
 
 
 [Junfei Xiao](https://lambert-x.github.io/), Zhichao Xu, [‪Shiyi Lan‬](https://scholar.google.com/citations?hl=en&user=jIUI6F4AAAAJ), [‪Zhiding Yu‬](https://scholar.google.com/citations?user=1VI_oYUAAAAJ&hl=en), [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=en&oi=ao), [‪Anima Anandkumar](https://scholar.google.com/citations?user=bEcLezcAAAAJ&hl=en)<br/>
