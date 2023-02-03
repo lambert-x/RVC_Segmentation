@@ -25,7 +25,7 @@ Johns Hopkins University, NVIDIA, Fudan University <br/>
 
 ## Installing Requirements
 
-Please refer to [FAN/segmentation at master · NVlabs/FAN · GitHub](https://github.com/NVlabs/FAN/tree/master/segmentation)
+Please refer to [FAN/segmentation](https://github.com/NVlabs/FAN/tree/master/segmentation)
 
 ## Citation
 
