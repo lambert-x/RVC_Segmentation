@@ -24,13 +24,18 @@ Johns Hopkins University, NVIDIA, Fudan University <br/>
 
 - [x] Upload codes and configs.
 
-- [ ] Instructions for preparing datasets.
+- [x] Instructions for preparing datasets.
 
 - [ ] Instructions for training and testing.
 
 ## Installing Requirements
 
 Please refer to [FAN/segmentation](https://github.com/NVlabs/FAN/tree/master/segmentation)
+
+## Preparing Datasets
+
+You may refer to the instruction provided in the official github [repo](https://github.com/ozendelait/rvc_devkit/tree/master/segmentation) to prepare the datasets from scratch. A fully-processed version is also available at this [link](https://drive.google.com/drive/folders/1AE9gnlWquRB1rJ8CiPQ0flNOq8CtXtU_?usp=sharing), which is for research purpose only. Please refer to the official usage rules of each dataset.
+
 
 ## Citation
 
